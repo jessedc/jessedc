@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+[Linkedin/in/jessedc](https://www.linkedin.com/in/jessedc/)
+
+[Blog](https://jessedc.dev)
+
+### Recent Agent Skills
+
+- [Apple Voice Memos](https://github.com/jessedc/apple-voice-memos) - Extract and process Apple Voice memo transcripts
+- [Text to Podcast](https://github.com/jessedc/text-to-podcast) - Generate a podcast with local AI from any text source
+- [Python Project Setup](https://github.com/jessedc/python-project-setup-skill) - WIP - Python project setup distilled into an agent skill
+
+### Recent Projects
+
+- [Herald DNS-SD / Bonjour browser for iOS](https://github.com/jessedc/herald-ios-bonjour-browser) / [heraldapp.app](https://heraldapp.app)
+
 <!--
 **jessedc/jessedc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
