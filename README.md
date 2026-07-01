@@ -12,7 +12,7 @@
 
 ### Experimentation with Local LLMs
 
-- [vlLM and Docker on the DXG Spark](https://github.com/jessedc/vllm-docker-gb10) - distillation of trial and error and reseach on running the cutting edge of vllm and models that will work well for coding on a GB10 device (DGX Spark)
+- [vlLM and Docker on the DXG Spark](https://github.com/jessedc/vllm-docker-gb10) - reseach and recipes for running the cutting edge of vllm and models for coding on a GB10 device (DGX Spark)
 
 ### Recent Projects
 
