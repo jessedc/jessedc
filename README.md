@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-[Linkedin/in/jessedc](https://www.linkedin.com/in/jessedc/)
+### Contact
+[linkedin/in/jessedc](https://www.linkedin.com/in/jessedc/) | [Blog](https://jessedc.dev)
 
-[Blog](https://jessedc.dev)
+### 2026
+
+In 2026 I'm focusing on building and shipping agentic apps and tools while experimenting with running local LLMs on macOS and Nvidia DGX Spark devices using a variety of coding harnesses like opencode, pi and Zed. 
 
 ### Recent Agent Skills
 
