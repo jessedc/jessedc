@@ -1,5 +1,5 @@
 ## Hi there 👋
-- [linkedin/in/jessedc](https://www.linkedin.com/in/jessedc/)\
+- [linkedin/in/jessedc](https://www.linkedin.com/in/jessedc/)
 - [jessedc.dev](https://jessedc.dev)
 
 ### 2026
