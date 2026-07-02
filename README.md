@@ -1,7 +1,6 @@
 ## Hi there 👋
-
-### Contact
-[linkedin/in/jessedc](https://www.linkedin.com/in/jessedc/) | [Blog](https://jessedc.dev)
+- [linkedin/in/jessedc](https://www.linkedin.com/in/jessedc/)\
+- [jessedc.dev](https://jessedc.dev)
 
 ### 2026
 
