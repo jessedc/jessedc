@@ -16,7 +16,7 @@ In 2026 I'm focusing on building and shipping agentic apps and tools while exper
 ### Recent Projects
 
 - [Herald DNS-SD / Bonjour browser for iOS](https://github.com/jessedc/herald-ios-bonjour-browser) / [heraldapp.app](https://heraldapp.app)
-- [KISS Résumé 💋](https://github.com/jessedc/kiss-resume) - Generate simple, good lookling and accessible resume PDFs from a markdown file.
+- [KISS Résumé 💋](https://github.com/jessedc/kiss-resume) - Generate simple, good lookling and accessible PDFs of your résumé stored as markdown.
 
 ### Experimentation with Local LLMs
 
