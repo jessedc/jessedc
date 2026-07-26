@@ -6,7 +6,7 @@
 
 In 2026 I'm focusing on building and shipping agentic apps and tools while experimenting with running local LLMs on macOS and Nvidia DGX Spark devices using a variety of coding harnesses like opencode, pi and Zed. 
 
-### Recent Agent Skills
+### Agent Skills
 
 - [Apple Voice Memos](https://github.com/jessedc/apple-voice-memos) - Extract and process Apple Voice memo transcripts
 - [Text to Podcast](https://github.com/jessedc/text-to-podcast) - Generate a podcast with local AI from any text source
@@ -18,7 +18,7 @@ In 2026 I'm focusing on building and shipping agentic apps and tools while exper
 - [KISS Résumé 💋](https://github.com/jessedc/kiss-resume) - Generate simple, good lookling and accessible PDFs of your résumé stored as markdown.
 - [TabDown.app](https://github.com/jessedc/safari-tabs-markdown-exporter) - Export all open Safari tabs to a markdown file with on device AI-generated summaries
 
-### Experimentation with Local LLMs
+### Experiments
 
 - [vlLM and Docker on the DXG Spark](https://github.com/jessedc/vllm-docker-gb10) - reseach and recipes for running the cutting edge of vllm and models for coding on a GB10 device (DGX Spark)
 
