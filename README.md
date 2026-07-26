@@ -4,7 +4,7 @@
 
 ### 2026
 
-In 2026 I'm focusing on building and shipping agentic apps and tools while experimenting with running local LLMs on macOS and Nvidia DGX Spark devices using a variety of coding harnesses like opencode, pi and Zed. 
+I'm focusing on building and shipping agentic apps and tools while experimenting with running local LLMs on macOS and Nvidia DGX Spark devices using a variety of coding harnesses like opencode, pi and Zed. 
 
 ### Agent Skills
 
@@ -16,11 +16,11 @@ In 2026 I'm focusing on building and shipping agentic apps and tools while exper
 
 - [Herald DNS-SD / Bonjour browser for iOS](https://github.com/jessedc/herald-ios-bonjour-browser) / [heraldapp.app](https://heraldapp.app)
 - [KISS Résumé 💋](https://github.com/jessedc/kiss-resume) - Generate simple, good lookling and accessible PDFs of your résumé stored as markdown.
-- [TabDown.app](https://github.com/jessedc/safari-tabs-markdown-exporter) - Export all open Safari tabs to a markdown file with on device AI-generated summaries
+- [TabDown.app](https://github.com/jessedc/safari-tabs-markdown-exporter) - A Safari extension that exports all open Safari tabs to a markdown file with on device AI-generated Apple Intelligence summaries.
 
 ### Experiments
 
-- [vlLM and Docker on the DXG Spark](https://github.com/jessedc/vllm-docker-gb10) - reseach and recipes for running the cutting edge of vllm and models for coding on a GB10 device (DGX Spark)
+- [vlLM and Docker on the DXG Spark](https://github.com/jessedc/vllm-docker-gb10) - reseach and recipes for running the cutting edge of `vllm` and open-weight models for coding on a GB10 device (DGX Spark)
 
 <!--
 **jessedc/jessedc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
