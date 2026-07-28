@@ -16,7 +16,7 @@ I'm focusing on building and shipping agentic apps and tools while experimenting
 
 - [Herald DNS-SD / Bonjour browser for iOS](https://github.com/jessedc/herald-ios-bonjour-browser) / [heraldapp.app](https://heraldapp.app)
 - [KISS Résumé 💋](https://github.com/jessedc/kiss-resume) - Generate simple, good lookling and accessible PDFs of your résumé stored as markdown.
-- [TabDown.app](https://github.com/jessedc/safari-tabs-markdown-exporter) - A Safari extension that exports all open Safari tabs to a markdown file with on device AI-generated Apple Intelligence summaries.
+- [TabDown.app](https://github.com/jessedc/safari-tabs-markdown-exporter) - A Safari extension to export open Safari tabs to a markdown file with Apple Intelligence AI summaries.
 
 ### Experiments
 
