@@ -20,7 +20,9 @@ I'm focusing on building and shipping agentic apps and tools while experimenting
 
 ### Experiments
 
-- [vlLM and Docker on the DXG Spark](https://github.com/jessedc/vllm-docker-gb10) - reseach and recipes for running the cutting edge of `vllm` and open-weight models for coding on a GB10 device (DGX Spark)
+- [vlLM and Docker on the DXG Spark](https://github.com/jessedc/vllm-docker-gb10) - research and recipes for running the cutting edge of `vllm` and open-weight models for coding on a GB10 device (DGX Spark).
+- [Hermes-Docker](https://github.com/jessedc/hermes-docker) - experimenting with a portable Hermes to run in a home lab (on a NAS) setting.
+- [Chatt on Lightsail](https://github.com/jessedc/chatto-on-lightsail) - end to end setup and maintenance steps for running [chatto.run](https://chatto.run) on a small, cheap light sail server.
 
 <!--
 **jessedc/jessedc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
