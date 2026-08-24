@@ -12,6 +12,10 @@ I'm focusing on building and shipping agentic apps and tools while experimenting
 - [Text to Podcast](https://github.com/jessedc/text-to-podcast) - Generate a podcast with local AI from any text source
 - [Python Project Setup](https://github.com/jessedc/python-project-setup-skill) - Python project setup distilled into an agent skill (used for KISS Resume below)
 
+### Agents 
+
+- [Agent Demo](https://github.com/jessedc/agent-demo) - A minimal LangChain implementation.
+
 ### Recent Projects
 
 - [Herald DNS-SD / Bonjour browser for iOS](https://github.com/jessedc/herald-ios-bonjour-browser) / [heraldapp.app](https://heraldapp.app)
