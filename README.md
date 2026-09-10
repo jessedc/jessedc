@@ -15,6 +15,7 @@ I'm focusing on building and shipping agentic apps and tools while experimenting
 ### Agents 
 
 - [Agent Demo](https://github.com/jessedc/agent-demo) - A minimal LangChain implementation.
+- [pi-agent](https://github.com/jessedc/pi-agent) - A coding harness for building and shipping agentic apps.
 
 ### Recent Projects
 
