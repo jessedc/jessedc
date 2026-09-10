@@ -14,8 +14,8 @@ I'm focusing on building and shipping agentic apps and tools while experimenting
 
 ### Agents 
 
+- [pi-agent](https://github.com/jessedc/pi-agent) - A demonstration coding harness using open source hardness `pi` and local Lms for creating draft PRs against GitHub issues.
 - [Agent Demo](https://github.com/jessedc/agent-demo) - A minimal LangChain implementation.
-- [pi-agent](https://github.com/jessedc/pi-agent) - A coding harness for building and shipping agentic apps.
 
 ### Recent Projects
 
